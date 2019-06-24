@@ -1,6 +1,6 @@
 #include <iostream>
-
-// Define get_emergency_number() below:
+                                          __________________________________
+// Define get_emergency_number() below:   |                                |____> // detta kallas parameter.
 void get_emergency_number(std::string emergency_number) {
   
   std::cout << "Dial " << emergency_number;
