@@ -16,3 +16,5 @@ int main()
 
 	return 0;
 }
+
+PRINTAR UT//cout << "Yes that's like that." << endl; //VARFÖR// JO ,PÅGRUND AV POSITIONEN, EXCITED=0 OCH  RED=0 ,DÄR PRINTAR DET UT SÅ
